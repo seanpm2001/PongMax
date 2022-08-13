@@ -9,7 +9,7 @@
 
 ### 2022 August 12th
 
-PongMax has been written in the following languages (as of 2022, Friday, August 12th at 5:24 pm PST)
+PongMax has been written in the following languages (as of 2022, Friday, August 12th at 9:25 pm PST)
 
 1. Python 2.7
 
@@ -27,10 +27,12 @@ PongMax has been written in the following languages (as of 2022, Friday, August 
 7. TypeScript 4.7
 8. Java 10
 9. Kotlin 1.7.10
+10. Lua 5.4.4
+11. MoonScript 0.5.0
 
-**Count:** `8` | **Count (versions + count):** `9` | **Count (versions + count + LIBraries):** `12`
+**Count:** `10` | **Count (versions + count):** `11` | **Count (versions + count + LIBraries):** `14`
 
-None of the builds are functional yet, however, and I have many, many, many more languages to support. These builds currently jsut contain the structure of the game.
+None of the builds are functional yet, however, and I have many, many, many more languages to support. These builds currently just contain the structure of the game.
 
 ***
 
@@ -40,9 +42,9 @@ None of the builds are functional yet, however, and I have many, many, many more
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Friday, August 12th at 5:24 pm PST)`
+**File version:** `2 (2022, Friday, August 12th at 9:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `84`
+**Line count (including blank lines and compiler line):** `100`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -75,6 +77,20 @@ _Note that on 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 h
 - [x] Added the `file info` section
 - [x] Added the `file history` section
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Friday, August 12th at 9:25 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `supported languages` list, adding the 2 latest entries (the last 2 entries of the day)
+- [x] Updated the `counter` minisection
+- [x] Updated the `file info` section
+- [x] Updated the `file history` section
+- [ ] No other changes in version 2
 
 </details>
 
