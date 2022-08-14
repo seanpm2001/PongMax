@@ -1,5 +1,5 @@
 Languages to implement Pong in (PongMax)
-As of 2022, Saturday, August 13th at 12:55 am PST
+As of 2022, Saturday, August 13th at 10:01 pm PST (V2)
 
 Python3 django
 JavaScript 1.8
@@ -106,7 +106,7 @@ Puppet v?
 SciLab v?
 Shell v?
 SystemVerilog v?
-x86 Assembly v?
+x86 Assembly v? 
 UNIX Assembly v?
 Oberon v?
 Seed7 v?
@@ -192,6 +192,15 @@ Svelte
 Gamemaker language
 STAR
 Slim
+Reason
+ReScript
+NGINX
+PicoLisp
+GraphQL
+TLA
+TXL
+BSDL
+B
 
 And many more...
 
